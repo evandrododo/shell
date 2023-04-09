@@ -1,0 +1,11 @@
+Model Information:
+* title:	sea shell 1
+* source:	https://sketchfab.com/3d-models/sea-shell-1-be775135995c4734972317dea2c0593b
+* author:	tomiltar (https://sketchfab.com/tomiltar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "sea shell 1" (https://sketchfab.com/3d-models/sea-shell-1-be775135995c4734972317dea2c0593b) by tomiltar (https://sketchfab.com/tomiltar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
